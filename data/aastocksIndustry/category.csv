@@ -1,0 +1,91 @@
+﻿industry,category,changePercent,prevChangePercent,turnover,averageTurnover,averagePE
+Conglomerates,Conglomerates,0.370%,+0.120%,849.63M,772.67M,26.34
+Consumer Goods,Cosmetics & Personal Care,1.690%,+0.250%,334.22M,247.58M,13.57
+Materials,Nonferrous Metal,0.750%,+0.600%,1.19B,1.76B,20.23
+Consumer Goods,Consumer Electronics,2.490%,+2.190%,532.73M,754.06M,10.09
+Consumer Goods,Medicine,1.160%,+0.210%,6.71B,5.91B,24.18
+Services,Retailers & Trade,0.030%,-8.580%,4.83M,7.71M,0.13
+Utilities,Water Supply,0.320%,+0.230%,162.34M,153.18M,6.75
+Utilities,Gas Supply,1.070%,-0.200%,1.41B,1.25B,16.24
+Utilities,Electricity Supply,0.590%,-0.540%,1.01B,912.35M,12.74
+Utilities,Alternative Energy ,1.870%,-1.370%,458.27M,507.65M,19.87
+Telecommunications,Telecomm. Services,0.680%,-0.210%,2.27B,2.36B,26.56
+Telecommunications,Telecomm. & Networking Equipment,1.700%,+1.150%,4.55B,2.77B,13.29
+Services,Warehousing & Logistic Services ,0.960%,-0.720%,288.93M,258.42M,11.79
+Services,TV & Broadcasting,0.240%,-1.580%,4.41M,5.11M,0.00
+Services,Travel & Tourism,0.370%,+1.270%,247.09M,137.35M,6.56
+Services,Road and Railway,0.280%,+0.480%,141.98M,119.66M,10.55
+Services,Restaurants & Fast Food Shops,0.550%,+0.170%,1.05B,924.46M,114.18
+Services,Publishing,0.050%,-0.180%,11.57M,16.70M,3.60
+Services,Public Transport,0.300%,+1.660%,147.08M,120.53M,5.34
+Services,Other Support Services,1.450%,-0.310%,1.15B,832.82M,28.92
+Services,Multi-media Enterprise,1.750%,-0.870%,491.02K,3.23M,32.37
+Services,Movies & Entertainment,0.800%,-0.460%,161.12M,136.74M,10.59
+Services,Marine & Harbour Services,1.620%,+1.310%,2.15B,1.82B,10.82
+Services,Hotels & Resorts,0.540%,+1.450%,34.62M,33.66M,11.04
+Services,Leisure & Recreation,0.820%,+1.690%,9.70M,18.91M,4.45
+Services,Gamble,0.200%,+1.490%,2.16B,1.41B,10.92
+Services,Funeral,0.040%,+0.180%,30.44M,28.41M,9.50
+Services,"Diversified Tourism, Hotel & Restaurant",0.660%,+0.940%,2.12M,3.60M,30.28
+Services,Department Stores & Shopping Malls,1.230%,-0.170%,209.95M,276.75M,8.97
+Services,Airlne Support,2.220%,+0.170%,57.48M,58.18M,6.33
+Services,Airline Services,0.520%,-0.650%,357.07M,321.44M,1.96
+Services,"Automobile Retailing, Maintenance & Repair",0.010%,+0.410%,1.15B,427.92M,28.78
+Properties & Construction,Real Estate Investment Trust,0.920%,-0.330%,451.08M,324.96M,"8,377.61"
+Services,Advertising,1.700%,-0.530%,1.36B,594.62M,9.44
+Properties & Construction,Property Investment,0.200%,+0.250%,1.24B,922.41M,15.38
+Properties & Construction,Property Management & Agency,1.520%,+0.130%,3.76B,3.07B,163.62
+Properties & Construction,Property Development,0.620%,-0.070%,4.85B,4.07B,22.34
+Properties & Construction,Infrastructure ,0.700%,-0.590%,202.94M,229.73M,10.19
+Properties & Construction,Construction Materials,0.930%,-0.400%,818.48M,750.96M,15.63
+Properties & Construction,Construction & Decoration,0.550%,+0.290%,160.25M,205.09M,26.67
+Materials,Steel,0.910%,+0.260%,146.01M,203.92M,53.20
+Materials,Precious Metal,2.470%,-0.590%,683.89M,743.28M,8.05
+Materials,Papermaking,4.380%,-0.340%,528.84M,146.50M,26.02
+Materials,Other Minerals,0.040%,+0.070%,1.11M,3.27M,1.37
+Materials,Forestry & Timber,0.700%,+0.060%,231.10K,644.01K,1.28
+Materials,Environmental Energy Material,3.350%,+1.070%,1.94B,1.26B,6.54
+Materials,Fertilisers & Agricultural Chemicals,1.290%,-0.570%,51.89M,30.62M,4.47
+Materials,Chemical Products,0.110%,+0.570%,365.19M,195.59M,9.79
+Information Technology,Technology Conglomerates,,,,,
+Information Technology,System Applications & IT Consulting,1.690%,+0.140%,1.59B,1.26B,17.54
+Information Technology,Software,2.530%,+0.470%,1.14B,1.02B,24.61
+Information Technology,Semiconductors,1.410%,+1.280%,2.93B,2.12B,17.88
+Information Technology,Satellite & Aerospace,1.570%,-0.970%,164.82M,129.33M,8.46
+Information Technology,E-Commerce & Internet Services,1.130%,+0.860%,34.91B,24.73B,120.97
+Information Technology,IT Hardware,0.560%,+0.340%,700.22M,611.49M,24.68
+Industrial Goods,"Printing, Publishing & Packaging",0.710%,+1.040%,36.28M,22.07M,13.68
+Industrial Goods,Machinery & Equipment,0.220%,+1.240%,905.84M,835.17M,18.17
+Industrial Goods,Industrial Goods,0.580%,+0.470%,643.69M,682.34M,21.01
+Industrial Goods,Environmental Goods,0.040%,-0.370%,220.62M,195.08M,6.96
+Industrial Goods,Electronic Component ,0.970%,+0.500%,2.23B,1.50B,59.93
+Industrial Goods,Electric Equipment,1.040%,-1.370%,233.10M,153.39M,7.82
+Industrial Goods,Commercial Vehicle,0.160%,+3.350%,961.13M,430.65M,14.92
+Financials,Securities,0.240%,0.000%,1.38B,841.68M,11.75
+Financials,Investments & Assets Management,0.300%,-0.150%,2.00B,1.27B,8.54
+Financials,Other Financials,0.240%,-0.220%,2.88B,1.64B,20.48
+Financials,Insurance,0.810%,+0.240%,7.27B,4.95B,14.71
+Financials,Banks,0.180%,0.000%,7.50B,6.13B,7.79
+Energy,Petroleum & Gases Equipment & Services,0.840%,-0.170%,153.06M,166.48M,10.35
+Energy,Petroleum & Gases,0.140%,+1.460%,3.85B,2.29B,25.40
+Energy,Coal,0.120%,+0.170%,790.86M,801.33M,2.30
+Consumer Goods,Watch & Jewellery,1.550%,-1.590%,209.61M,208.51M,31.49
+Consumer Goods,Toys,0.270%,-0.350%,296.87M,193.98M,28.65
+Consumer Goods,Textile & Apparels,0.190%,+0.120%,1.76B,1.46B,8.13
+Consumer Goods,Packaged Foods,0.470%,-0.880%,485.75M,285.09M,28.57
+Consumer Goods,Soft Drinks,0.110%,-0.390%,903.73M,872.66M,16.50
+Consumer Goods,International Trade,0.000%,0.000%,0.00,0.00,79.62
+Consumer Goods,Medical Equipment &  Services,1.220%,-0.160%,3.65B,3.22B,29.39
+Consumer Goods,Household Appliances,1.200%,+0.480%,1.16B,1.62B,10.70
+Consumer Goods,Health Products,2.240%,-1.690%,1.38M,2.37M,18.66
+Consumer Goods,Furniture & Household Goods,0.300%,-0.020%,361.92M,278.82M,24.65
+Consumer Goods,Footwears,0.310%,+7.300%,420.57M,603.18M,81.51
+Consumer Goods,Food Additives & Flavouring,1.340%,+0.100%,418.29M,608.22M,25.82
+Consumer Goods,Diversified Food & Beverage,1.230%,+0.650%,171.18M,128.14M,31.78
+Consumer Goods,Dairy Products,0.920%,+0.760%,1.71B,1.12B,22.59
+Consumer Goods,Automobiles & Components,1.490%,-0.440%,8.64B,6.27B,54.03
+Consumer Goods,Biotechnology,1.690%,-0.460%,8.89B,5.64B,24.60
+Consumer Goods,Apparel,0.980%,+0.600%,3.14B,3.29B,21.96
+Consumer Goods,Alcoholic Drinks & Tobacco,0.370%,+0.070%,1.41B,840.21M,25.22
+Consumer Goods,"Agricultural, Poultry & Fishing Production",0.200%,-0.520%,334.66M,357.82M,6.49
+Consumer Goods,Accessories & Leather Goods,0.540%,+1.700%,173.97M,213.38M,10.10
